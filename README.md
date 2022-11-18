@@ -28,7 +28,7 @@ To install the plugins on `vim` type
 To install [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 
 ```
-cd ~/.vim/bundle/YouCompleteMe
+cd ~/.vim/plugged/YouCompleteMe/
 python3 install.py --all
 ```
 
